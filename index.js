@@ -21,4 +21,4 @@ for (let num of numbers){
     num = num ** 3;
     sum += num;
 }
-console.log(sum); // 1003904306910622800
+console.log(sum); // 1158411
